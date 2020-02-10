@@ -3,6 +3,7 @@ RESTful API server for travel-website
 
 # Environmental dependence
 node: v10.16.0
+
 npm: v6.9.0
 
 # Deployment steps
